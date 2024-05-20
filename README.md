@@ -1,4 +1,4 @@
-# Employee Management App (CRUD) Readme
+# Employee Management App 
 
 This Employee Management App is a simple web application built using Python's  Django framework, HTML, and Bootstrap CDN. It allows users to perform Create, Read, Update, Delete operations on employee records.
 
@@ -37,5 +37,5 @@ This Employee Management App is a simple web application built using Python's  D
 ## Usage
 - Navigate to the homepage to view a list of employees.
 - Click on "Add Employee" to create a new employee record.
-- Click on an employee's name to view their details and make updates.
+- Click on "Update" button  to view their details and make updates.
 - To delete an employee record, click on the "Delete" button next to the employee.
