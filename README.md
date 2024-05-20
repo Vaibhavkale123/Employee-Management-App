@@ -17,7 +17,7 @@ This Employee Management App is a simple web application built using Python's  D
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/employee-management-app.git
+   git clone https://github.com/Vaibhavkale123/Employee-Management-App.git
    ```
 2. Create and activate a virtual environment:
    ```
