@@ -19,20 +19,15 @@ This Employee Management App is a simple web application built using Python's  D
    ```
    git clone https://github.com/Vaibhavkale123/Employee-Management-App.git
    ```
-2. Create and activate a virtual environment:
-   ```
-   python3 -m venv env
-   source env/bin/activate
-   ```
-3. Install the required dependencies:
+2. Install the required dependencies:
    ```
    pip install -r requirements.txt
    ```
-4. Run the Django development server:
+3. Run the Django development server:
    ```
    python manage.py runserver
    ```
-5. Access the application in your web browser at `http://localhost:8000`.
+4. Access the application in your web browser at `http://localhost:8000`.
 
 ## Usage
 - Navigate to the homepage to view a list of employees.
